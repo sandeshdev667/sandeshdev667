@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently leaning python's libraries to crerate real world scalable projects. I want to learn data analysis using python. Also, Learning full stack development and creating full scale projects. 
+Currently learning python's libraries to create real world scalable projects. I want to create a real-world impact through my creativity.
 
 
 ## 🌐 Socials:
