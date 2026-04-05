@@ -154,20 +154,6 @@ fun_fact: "I automated my subscription tracking because I was too lazy to check 
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/sandeshdev667/sandeshdev667/output/github-snake-dark.svg)
-
-<details>
-<summary>⚙️ How to set up the snake</summary>
-
-Add a GitHub Action in your profile repo at `.github/workflows/snake.yml` using [Platane/snk](https://github.com/Platane/snk). It auto-generates the SVG from your contribution graph daily.
-
-</details>
-
-</div>
 
 ---
 
